@@ -4,4 +4,4 @@
 
 ## Description
 
-Created this simple component to test Frontend Mentor. I used SASS to simplify the CSS code.
+Created this simple component to test Frontend Mentor. I used SASS to simplify the CSS code in the actual SASS format, instead of SCSS as I used to before. I've been enjoying the clean style of my CSS as a result.
